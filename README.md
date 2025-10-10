@@ -7,40 +7,34 @@
 
 </div>
 
-<hr style="border: 0.5px solid #D2B48C; margin: 10px 0;" />
 
 <div align="center">
-
-<strong style="font-size: 32px;"> About Me</strong>
+  
+<h2> Current Projects & Learning</h2>
 
 </div>
 
-I build **AI-driven solutions** that transform complex problems into real-world products.  
+🛰️ **Exoplanet Detector** [→](https://nasa-exo-planets.vercel.app/)  
+*ML/DL pipeline with NASA Kepler/TESS data*  
 
-<hr style="border: 0.5px solid #D2B48C; margin: 10px 0;" />
+🌐 **QalamTech Website** [→](https://qalamtech.io)  
+*Full-stack platform for an AI & software solutions company*  
 
-<div align="center">
+🤖 **AI Vision Therapy Tool** [→](#)  
+*Clinical scoring & analysis for standardized TVPS-4 testing*  
 
-<strong style="font-size: 32px;"> Current Projects & Learning</strong>
-
-</div>
-
-- 🛰️ **[Exoplanet Detector](https://nasa-exo-planets.vercel.app/)** – ML/DL pipeline with NASA Kepler/TESS data  
-- 🌐 **[QalamTech Website](https://qalamtech.io)** – Full-stack platform for an AI & software solutions company  
-- 🤖 **AI Vision Therapy TVPS-4 Testing Tool** – Clinical scoring & analysis tool for standardized TVPS-4 testing  
-- 📚 **Learning Cybersecurity & Cloud Infrastructure**
-
-<hr style="border: 0.5px solid #D2B48C; margin: 10px 0;" />
+📚 **Cybersecurity & Cloud** [→](#)  
+*Currently learning cybersecurity & cloud infrastructure*   
 
 <div align="center">
 
-<strong style="font-size: 32px;"> Tech Stack</strong>
+<h2> Tech Stack</h2>
 
 </div>
 
 <div align="center">
 
-<strong style="font-size: 28px;"> Languages</strong><br><br>
+<h3> Languages</h3><br>
 
 ![Python](https://img.shields.io/badge/Python-D8BFD8?style=for-the-badge&logo=python&logoColor=000000) 
 ![Java](https://img.shields.io/badge/Java-F6C5B9?style=for-the-badge&logo=openjdk&logoColor=000000) 
@@ -52,7 +46,7 @@ I build **AI-driven solutions** that transform complex problems into real-world 
 
 <div align="center">
 
-<strong style="font-size: 28px;"> Frameworks & Tools</strong><br><br>
+<h3> Frameworks & Tools</h3><br>
 
 ![React](https://img.shields.io/badge/React-F6C5B9?style=for-the-badge&logo=react&logoColor=000000) 
 ![Next.js](https://img.shields.io/badge/Next.js-A7C7E7?style=for-the-badge&logo=nextdotjs&logoColor=000000) 
@@ -66,7 +60,7 @@ I build **AI-driven solutions** that transform complex problems into real-world 
 
 <div align="center">
 
-<strong style="font-size: 28px;"> AI / ML</strong><br><br>
+<h3> AI / ML</h3><br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-D8BFD8?style=for-the-badge&logo=tensorflow&logoColor=000000) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-F6C5B9?style=for-the-badge&logo=pytorch&logoColor=000000) 
@@ -76,11 +70,10 @@ I build **AI-driven solutions** that transform complex problems into real-world 
 
 </div>
 
-<hr style="border: 0.5px solid #D2B48C; margin: 10px 0;" />
 
 <div align="center">
 
-<strong style="font-size: 32px;"> Let’s Connect</strong><br><br>
+<h2>Let’s Connect</h2><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-D3D3D3?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/oztari) 
 [![Email](https://img.shields.io/badge/Email-D3D3D3?style=for-the-badge&logo=icloud&logoColor=000000)](mailto:akhtarim@icloud.com) 
@@ -96,7 +89,6 @@ I build **AI-driven solutions** that transform complex problems into real-world 
  **Creating Code That Solves. From Problem to Product.**
 
 </div>
-
 
 
 
