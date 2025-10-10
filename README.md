@@ -1,6 +1,6 @@
 <div align="center">
 
-##  Mahnoz Akhtari  
+#  Mahnoz Akhtari  
 **Software Engineer | AI Developer | Creator of Solutions**
 
 <img src="assets/hero.gif" alt="Mahnoz Akhtari Animation" width="500"/>
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-###  About Me  
+##  About Me  
 
 </div>
 
@@ -21,31 +21,37 @@ I build **AI-driven solutions** that transform complex problems into real-world 
 
 <div align="center">
 
-###  Current Projects & Learning  
+##  Current Projects & Learning  
 
 </div>
 
-- 🛰️ **Exoplanet Detector** – ML/DL pipeline with NASA Kepler/TESS data  
-- 🤖 **AI Vision Therapy App** – Clinical scoring & analysis tools  
-- 🎮 **3D Simulation Game Engine** – Java3D + LWJGL rendering experiments  
+- 🛰️ **[Exoplanet Detector](https://nasa-exo-planets.vercel.app/)** – ML/DL pipeline with NASA Kepler/TESS data  
+- 🌐 **[QalamTech Website](https://qalamtech.io)** – Full-stack platform for an AI & software solutions company
+- 🤖 **AI Vision Therapy TVPS-4 Testing Tool** – Clinical scoring & analysis tool for standardized TVPS-4 testing 
 - 📚 **Learning Cybersecurity & Cloud Infrastructure**
 
 ---
 
 <div align="center">
 
-###  Tech Stack  
+##  Tech Stack  
 
 </div>
 
-#### 📜 Languages  
+<div align="center">
+
+###  Languages  
 ![Python](https://img.shields.io/badge/Python-D2B48C?style=for-the-badge&logo=python&logoColor=000000) 
 ![Java](https://img.shields.io/badge/Java-8B5E3C?style=for-the-badge&logo=openjdk&logoColor=ffffff) 
 ![C](https://img.shields.io/badge/C-3C2F2F?style=for-the-badge&logo=c&logoColor=ffffff) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-CBB994?style=for-the-badge&logo=javascript&logoColor=000000) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-A68B6D?style=for-the-badge&logo=typescript&logoColor=ffffff)  
 
-#### 🧰 Frameworks & Tools  
+</div>
+
+<div align="center">
+
+###  Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-CBB994?style=for-the-badge&logo=react&logoColor=000000) 
 ![Next.js](https://img.shields.io/badge/Next.js-3C2F2F?style=for-the-badge&logo=nextdotjs&logoColor=ffffff) 
 ![Node.js](https://img.shields.io/badge/Node.js-A68B6D?style=for-the-badge&logo=nodedotjs&logoColor=ffffff) 
@@ -54,22 +60,28 @@ I build **AI-driven solutions** that transform complex problems into real-world 
 ![Docker](https://img.shields.io/badge/Docker-3C2F2F?style=for-the-badge&logo=docker&logoColor=ffffff) 
 ![GitHub](https://img.shields.io/badge/GitHub-D2B48C?style=for-the-badge&logo=github&logoColor=000000)  
 
-#### 🧠 AI / ML  
+</div>
+
+<div align="center">
+
+###  AI / ML  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-8B5E3C?style=for-the-badge&logo=tensorflow&logoColor=ffffff) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-CBB994?style=for-the-badge&logo=pytorch&logoColor=000000) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-A68B6D?style=for-the-badge&logo=scikitlearn&logoColor=ffffff) 
 ![Pandas](https://img.shields.io/badge/Pandas-3C2F2F?style=for-the-badge&logo=pandas&logoColor=ffffff) 
 ![NumPy](https://img.shields.io/badge/NumPy-D2B48C?style=for-the-badge&logo=numpy&logoColor=000000)  
 
+</div>
+
 ---
 
 <div align="center">
 
-###  Let’s Connect  
+##  Let’s Connect  
 
-[![GitHub](https://img.shields.io/badge/GitHub-D2B48C?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/oztari)  
-[![Email](https://img.shields.io/badge/Email-8B5E3C?style=for-the-badge&logo=icloud&logoColor=ffffff)](mailto:akhtarim@icloud.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C2F2F?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahnoz-akhtari-65125a267/)  
+[![GitHub](https://img.shields.io/badge/GitHub-D2B48C?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/oztari)
+[![Email](https://img.shields.io/badge/Email-8B5E3C?style=for-the-badge&logo=icloud&logoColor=ffffff)](mailto:akhtarim@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C2F2F?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahnoz-akhtari-65125a267/)
 
 </div>
 
@@ -77,6 +89,7 @@ I build **AI-driven solutions** that transform complex problems into real-world 
 
 <div align="center">
 
-🤎 ** Creating Code That Solves. From Problem to Product.  **
+**Creating Code That Solves. From Problem to Product.**
 
 </div>
+
