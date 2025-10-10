@@ -7,89 +7,96 @@
 
 </div>
 
----
+<hr style="border: 0.5px solid #D2B48C; margin: 10px 0;" />
 
 <div align="center">
 
-##  About Me  
+<strong style="font-size: 28px;"> About Me</strong>
 
 </div>
 
 I build **AI-driven solutions** that transform complex problems into real-world products.  
 
----
+<hr style="border: 0.5px solid #D2B48C; margin: 10px 0;" />
 
 <div align="center">
 
-##  Current Projects & Learning  
+<strong style="font-size: 28px;"> Current Projects & Learning</strong>
 
 </div>
 
 - 🛰️ **[Exoplanet Detector](https://nasa-exo-planets.vercel.app/)** – ML/DL pipeline with NASA Kepler/TESS data  
-- 🌐 **[QalamTech Website](https://qalamtech.io)** – Full-stack platform for an AI & software solutions company
-- 🤖 **AI Vision Therapy TVPS-4 Testing Tool** – Clinical scoring & analysis tool for standardized TVPS-4 testing 
+- 🌐 **[QalamTech Website](https://qalamtech.io)** – Full-stack platform for an AI & software solutions company  
+- 🤖 **AI Vision Therapy TVPS-4 Testing Tool** – Clinical scoring & analysis tool for standardized TVPS-4 testing  
 - 📚 **Learning Cybersecurity & Cloud Infrastructure**
 
----
+<hr style="border: 0.5px solid #D2B48C; margin: 10px 0;" />
 
 <div align="center">
 
-##  Tech Stack  
+<strong style="font-size: 28px;"> Tech Stack</strong>
 
 </div>
 
 <div align="center">
 
-###  Languages  
-![Python](https://img.shields.io/badge/Python-D2B48C?style=for-the-badge&logo=python&logoColor=000000) 
-![Java](https://img.shields.io/badge/Java-8B5E3C?style=for-the-badge&logo=openjdk&logoColor=ffffff) 
-![C](https://img.shields.io/badge/C-3C2F2F?style=for-the-badge&logo=c&logoColor=ffffff) 
-![JavaScript](https://img.shields.io/badge/JavaScript-CBB994?style=for-the-badge&logo=javascript&logoColor=000000) 
-![TypeScript](https://img.shields.io/badge/TypeScript-A68B6D?style=for-the-badge&logo=typescript&logoColor=ffffff)  
+<strong style="font-size: 22px;"> Languages</strong><br><br>
+
+![Python](https://img.shields.io/badge/Python-D8BFD8?style=for-the-badge&logo=python&logoColor=000000) 
+![Java](https://img.shields.io/badge/Java-F6C5B9?style=for-the-badge&logo=openjdk&logoColor=000000) 
+![C](https://img.shields.io/badge/C-A7C7E7?style=for-the-badge&logo=c&logoColor=000000) 
+![JavaScript](https://img.shields.io/badge/JavaScript-B9D3B0?style=for-the-badge&logo=javascript&logoColor=000000) 
+![TypeScript](https://img.shields.io/badge/TypeScript-D8BFD8?style=for-the-badge&logo=typescript&logoColor=000000)  
 
 </div>
 
 <div align="center">
 
-###  Frameworks & Tools  
-![React](https://img.shields.io/badge/React-CBB994?style=for-the-badge&logo=react&logoColor=000000) 
-![Next.js](https://img.shields.io/badge/Next.js-3C2F2F?style=for-the-badge&logo=nextdotjs&logoColor=ffffff) 
-![Node.js](https://img.shields.io/badge/Node.js-A68B6D?style=for-the-badge&logo=nodedotjs&logoColor=ffffff) 
-![FastAPI](https://img.shields.io/badge/FastAPI-8B5E3C?style=for-the-badge&logo=fastapi&logoColor=ffffff) 
-![Flutter](https://img.shields.io/badge/Flutter-CBB994?style=for-the-badge&logo=flutter&logoColor=000000) 
-![Docker](https://img.shields.io/badge/Docker-3C2F2F?style=for-the-badge&logo=docker&logoColor=ffffff) 
-![GitHub](https://img.shields.io/badge/GitHub-D2B48C?style=for-the-badge&logo=github&logoColor=000000)  
+<strong style="font-size: 22px;"> Frameworks & Tools</strong><br><br>
+
+![React](https://img.shields.io/badge/React-F6C5B9?style=for-the-badge&logo=react&logoColor=000000) 
+![Next.js](https://img.shields.io/badge/Next.js-A7C7E7?style=for-the-badge&logo=nextdotjs&logoColor=000000) 
+![Node.js](https://img.shields.io/badge/Node.js-B9D3B0?style=for-the-badge&logo=nodedotjs&logoColor=000000) 
+![FastAPI](https://img.shields.io/badge/FastAPI-D8BFD8?style=for-the-badge&logo=fastapi&logoColor=000000) 
+![Flutter](https://img.shields.io/badge/Flutter-F6C5B9?style=for-the-badge&logo=flutter&logoColor=000000) 
+![Docker](https://img.shields.io/badge/Docker-A7C7E7?style=for-the-badge&logo=docker&logoColor=000000) 
+![GitHub](https://img.shields.io/badge/GitHub-B9D3B0?style=for-the-badge&logo=github&logoColor=000000)  
 
 </div>
 
 <div align="center">
 
-###  AI / ML  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-8B5E3C?style=for-the-badge&logo=tensorflow&logoColor=ffffff) 
-![PyTorch](https://img.shields.io/badge/PyTorch-CBB994?style=for-the-badge&logo=pytorch&logoColor=000000) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-A68B6D?style=for-the-badge&logo=scikitlearn&logoColor=ffffff) 
-![Pandas](https://img.shields.io/badge/Pandas-3C2F2F?style=for-the-badge&logo=pandas&logoColor=ffffff) 
-![NumPy](https://img.shields.io/badge/NumPy-D2B48C?style=for-the-badge&logo=numpy&logoColor=000000)  
+<strong style="font-size: 22px;"> AI / ML</strong><br><br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-D8BFD8?style=for-the-badge&logo=tensorflow&logoColor=000000) 
+![PyTorch](https://img.shields.io/badge/PyTorch-F6C5B9?style=for-the-badge&logo=pytorch&logoColor=000000) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-A7C7E7?style=for-the-badge&logo=scikitlearn&logoColor=000000) 
+![Pandas](https://img.shields.io/badge/Pandas-B9D3B0?style=for-the-badge&logo=pandas&logoColor=000000) 
+![NumPy](https://img.shields.io/badge/NumPy-D8BFD8?style=for-the-badge&logo=numpy&logoColor=000000)  
 
 </div>
 
----
+<hr style="border: 0.5px solid #D2B48C; margin: 10px 0;" />
 
 <div align="center">
 
-##  Let’s Connect  
+<strong style="font-size: 28px;"> Let’s Connect</strong><br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-D2B48C?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/oztari)
-[![Email](https://img.shields.io/badge/Email-8B5E3C?style=for-the-badge&logo=icloud&logoColor=ffffff)](mailto:akhtarim@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C2F2F?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahnoz-akhtari-65125a267/)
+[![GitHub](https://img.shields.io/badge/GitHub-D3D3D3?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/oztari) 
+[![Email](https://img.shields.io/badge/Email-D3D3D3?style=for-the-badge&logo=icloud&logoColor=000000)](mailto:akhtarim@icloud.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D3D3D3?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/mahnoz-akhtari-65125a267/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-D3D3D3?style=for-the-badge&logo=vercel&logoColor=000000)](https://qalamtech.io)  
 
 </div>
 
----
+<hr style="border: 0.5px solid #D2B48C; margin: 10px 0;" />
 
 <div align="center">
 
-**Creating Code That Solves. From Problem to Product.**
+ **Creating Code That Solves. From Problem to Product.**
 
 </div>
+
+
+
 
