@@ -3,7 +3,7 @@
 ##  Mahnoz Akhtari  
 **Software Engineer | AI Developer | Creator of Solutions**
 
-<img src="assets/animation.gif" alt="Mahnoz Akhtari Animation" width="500"/>
+<img src="assets/hero.gif" alt="Mahnoz Akhtari Animation" width="500"/>
 
 </div>
 
