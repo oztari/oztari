@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<strong style="font-size: 28px;"> About Me</strong>
+<strong style="font-size: 32px;"> About Me</strong>
 
 </div>
 
@@ -21,7 +21,7 @@ I build **AI-driven solutions** that transform complex problems into real-world 
 
 <div align="center">
 
-<strong style="font-size: 28px;"> Current Projects & Learning</strong>
+<strong style="font-size: 32px;"> Current Projects & Learning</strong>
 
 </div>
 
@@ -34,13 +34,13 @@ I build **AI-driven solutions** that transform complex problems into real-world 
 
 <div align="center">
 
-<strong style="font-size: 28px;"> Tech Stack</strong>
+<strong style="font-size: 32px;"> Tech Stack</strong>
 
 </div>
 
 <div align="center">
 
-<strong style="font-size: 22px;"> Languages</strong><br><br>
+<strong style="font-size: 28px;"> Languages</strong><br><br>
 
 ![Python](https://img.shields.io/badge/Python-D8BFD8?style=for-the-badge&logo=python&logoColor=000000) 
 ![Java](https://img.shields.io/badge/Java-F6C5B9?style=for-the-badge&logo=openjdk&logoColor=000000) 
@@ -52,7 +52,7 @@ I build **AI-driven solutions** that transform complex problems into real-world 
 
 <div align="center">
 
-<strong style="font-size: 22px;"> Frameworks & Tools</strong><br><br>
+<strong style="font-size: 28px;"> Frameworks & Tools</strong><br><br>
 
 ![React](https://img.shields.io/badge/React-F6C5B9?style=for-the-badge&logo=react&logoColor=000000) 
 ![Next.js](https://img.shields.io/badge/Next.js-A7C7E7?style=for-the-badge&logo=nextdotjs&logoColor=000000) 
@@ -66,7 +66,7 @@ I build **AI-driven solutions** that transform complex problems into real-world 
 
 <div align="center">
 
-<strong style="font-size: 22px;"> AI / ML</strong><br><br>
+<strong style="font-size: 28px;"> AI / ML</strong><br><br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-D8BFD8?style=for-the-badge&logo=tensorflow&logoColor=000000) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-F6C5B9?style=for-the-badge&logo=pytorch&logoColor=000000) 
@@ -80,7 +80,7 @@ I build **AI-driven solutions** that transform complex problems into real-world 
 
 <div align="center">
 
-<strong style="font-size: 28px;"> Let’s Connect</strong><br><br>
+<strong style="font-size: 32px;"> Let’s Connect</strong><br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-D3D3D3?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/oztari) 
 [![Email](https://img.shields.io/badge/Email-D3D3D3?style=for-the-badge&logo=icloud&logoColor=000000)](mailto:akhtarim@icloud.com) 
