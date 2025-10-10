@@ -20,7 +20,7 @@
 🌐 **QalamTech Website** [→](https://qalamtech.io)  
 *Full-stack platform for an AI & software solutions company*  
 
-🤖 **AI Vision Therapy Tool** [→](#)  
+🤖 **AI Vision Therapy Tool** [→](https://github.com/oztari/TVPS4-Tool)  
 *Clinical scoring & analysis for standardized TVPS-4 testing*  
 
 📚 **Cybersecurity & Cloud** [→](#)  
